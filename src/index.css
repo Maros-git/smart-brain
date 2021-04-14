@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Courier New', Courier, monospace;
-    background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(89deg, #403866 30%, #6886ac 100%);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,6 +11,7 @@ button {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace';
 }
+
